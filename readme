@@ -1,0 +1,1 @@
+Small snippet from first semester data science assignment. The .html is a knitted analysis of what brewery to recommed a friend based on the beer_reviews data. Found it interesting for the considerations on how stats and friendship overlap. The .CSVs need to be in the same directory as the .rmd.
