@@ -1,0 +1,770 @@
+beer_style,beer_name,beer_id,brewery_id
+American Barleywine,Wheelchair,66845,1
+American Black Ale,Cascadian Dark Ale,68447,1
+American Double / Imperial IPA,Ballz Deep Double IPA,53679,1
+English Pale Ale,British Pale Ale,53677,1
+Foreign / Export Stout,Barrel Aged Port Royal Stout W/ Vanilla Beans,58128,1
+Saison / Farmhouse Ale,Saison Du Sept Mers,64423,1
+Winter Warmer,Santa's Smokin' Winter Warmer,65639,1
+American Adjunct Lager,Club Premium Lager,5181,2
+American Amber / Red Lager,Sakara Red,27590,3
+American Malt Liquor,Sakara King,35982,3
+Dortmunder / Export Lager,Stella Export,27588,3
+Euro Strong Lager,Stella Premium,27585,3
+Euro Strong Lager,Meister Max,27589,3
+California Common / Steam Beer,Gold Rush Steam Beer,54366,4
+Eisbock,Eisbock,64391,4
+California Common / Steam Beer,Taste 25,51413,5
+Chile Beer,Sherbrooke Aaiieeeeeeeeee Caramba! - Serrano Chili,45796,5
+Chile Beer,Sherbrooke Aaiieeeeeeeeee Caramba! - Thai Green Chili,46315,5
+Kristalweizen,Herbstweizen Krystal Weizen,36951,5
+Euro Strong Lager,Amsterdam Navigator,13545,6
+Bock,Amstel Bock,1418,7
+Dortmunder / Export Lager,Amstel Gold,1415,7
+Euro Dark Lager,Amstel Oud Bruin,1419,7
+Euro Pale Lager,Amstel Bright,3386,7
+Euro Pale Lager,Amstel (Pure Filtered),33584,7
+Euro Pale Lager,Amstel Lager,1414,7
+Euro Strong Lager,Amstel Sterk (Strong),66308,7
+German Pilsener,Amstel 1870,1413,7
+Light Lager,Amstel Light,436,7
+Low Alcohol Beer,Amstel Malt,59239,7
+Maibock / Helles Bock,Amstel Lentebock,1417,7
+American Brown Ale,Brockway Brown,32759,8
+American Pale Wheat Ale,C Street Wheat Ale,41492,8
+Doppelbock,'Tis The Seasonator,77070,8
+Foreign / Export Stout,O Danny Boy Irish Stout,41490,8
+Saison / Farmhouse Ale,Frenchie's Cove,77066,8
+English Dark Mild Ale,Dark Mild,13928,9
+English Dark Mild Ale,Autumn Brew,13929,9
+English Dark Mild Ale,Rite Spooky Brew,13930,9
+English Stout,Oyster Stout,21110,9
+Happoshu,Asahi Honnama Aqua Blue,11968,10
+Happoshu,Asahi Shinnama,26215,10
+Happoshu,Asahi Honnama Clear Black,32654,10
+Happoshu,Asahi Honnama Red,19641,10
+Japanese Rice Lager,Asahi Super Dry,2779,10
+Japanese Rice Lager,Asahi Super Yeast Kokukoku No Nama Beer,28330,10
+Japanese Rice Lager,Asahi Draft (Jukusen),2126,10
+American Adjunct Lager,Asmara Lager Beer,61474,11
+Altbier,Alt,20505,12
+Hefeweizen,Weizen,20504,12
+English Stout,Dark Hare,48313,13
+Extra Special / Strong Bitter (ESB),Gem,10656,13
+Roggenbier,Roggenbier,62587,14
+Kristalweizen,Bald Eagle Kristallweizen,21716,15
+Irish Dry Stout,Irish Stout,68736,16
+Czech Pilsener,Bernard Nefiltrovaný (unfiltered),25546,17
+Czech Pilsener,Bernard Celebration Lager,13548,17
+Czech Pilsener,Bernard Svetly Lezak,19309,17
+Czech Pilsener,OX,30983,17
+Czech Pilsener,Bernard Light 10° - Bernard Sv&#283;tlé Pivo 10°,64262,17
+Euro Dark Lager,Bernard Semi-dark Lager (polotmavy Lezak),18573,17
+Euro Dark Lager,Bernard Cerne,21521,17
+Euro Strong Lager,Prae&#269;ka Christmas,56735,17
+Low Alcohol Beer,Bernard S &#269;istou Hlavou,53523,17
+Munich Dunkel Lager,Bernard Jantarový Leák,64879,17
+Schwarzbier,Bernard Dark,64327,17
+English Brown Ale,Mnt. Borah Brown,76729,18
+American Malt Liquor,Big Hurt Beer,74145,19
+English Stout,Raggea Stout,75940,20
+Kölsch,Celtic Mater,75267,20
+Baltic Porter,Black Forest Baltic Porter,16693,21
+English Dark Mild Ale,Black Forest English Mild,30272,21
+Maibock / Helles Bock,Black Forest Helles,64709,21
+Quadrupel (Quad),The Lost Fugawi Ale,65526,21
+Kristalweizen,Kristale,50600,22
+Kristalweizen,Sunthief Kristallweizen,58649,22
+Altbier,Altbier,45132,23
+American Double / Imperial IPA,Professor Gesser's Mind Numbing Ale,45137,23
+American Stout,Bourbon Barrel Stout (Clay Street Series),61053,23
+English Porter,Dark Star Porter,44579,23
+Tripel,Mephistopheles' Metamorphosis,61864,23
+Altbier,Altbier,1121,24
+American Barleywine,Halliburton On Trent,22622,24
+American Barleywine,Bearded Pat's Barleywine,3003,24
+American Blonde Ale,Horse Piss Beer,29204,24
+American Brown Ale,2 Brewers 1 Pint,70026,24
+American Double / Imperial Stout,Jefferson's Reserve Bourbon Barrel Stout,29687,24
+Baltic Porter,Bourbon Barrel Russian Imperial Porter,49786,24
+Baltic Porter,Kick In The Baltic Porter,41240,24
+Bière de Garde,Bourbon Barrel Beer De Mars,59736,24
+Braggot,Luna De Miel: Raspberry Meade,5972,24
+California Common / Steam Beer,Anvil Steam,39360,24
+Dortmunder / Export Lager,Wort Hog Dort,18713,24
+Dubbel,Bourbon Barrel Belgian Style Dubbel,65764,24
+Dubbel,Dubbel Dribbel,41866,24
+Dubbel,Etrange De Leah,34636,24
+Dunkelweizen,Drunkelweizen,38200,24
+Herbed / Spiced Beer,Ebenezer's Spiced Ale,64745,24
+Kölsch,Kolsch,27753,24
+Lambic - Fruit,Nut Brown Lambic,49002,24
+Lambic - Fruit,Blackberry Lambic,52095,24
+Lambic - Fruit,Black Cherry Lambic,48605,24
+Lambic - Fruit,Pêche Lambic,51158,24
+Lambic - Unblended,Quad Lambic,50525,24
+Maibock / Helles Bock,Helles Bock,10857,24
+Munich Helles Lager,Bourbon Barrel Munich-Style Helles,67578,24
+Oatmeal Stout,Bourbon Barrel Oatmeal Stout,54123,24
+Oatmeal Stout,Heine Brothers Coffee Stout,35378,24
+Old Ale,Queen's Knickers,41532,24
+Old Ale,Bourbon Barrel Old St. Matthews,52269,24
+Old Ale,Brandy Barrel Queen's Knickers,54265,24
+Old Ale,Old St. Matthews,47710,24
+Quadrupel (Quad),Bourbon Barrel Quad,69510,24
+Saison / Farmhouse Ale,Saison Farmhouse Ale,69174,24
+Schwarzbier,Sheltowee GloomSucker Black Ale,45923,24
+Schwarzbier,Schwarz Beer,20422,24
+Tripel,Mephistopheles' Metamorphosis,14454,24
+Vienna Lager,Vienna Monologue,37394,24
+Weizenbock,Weizenbock,38196,24
+Wheatwine,Chocolate Wheatwine,69250,24
+Wheatwine,Batch 1300,29227,24
+American Amber / Red Lager,Dark Wheat,58410,25
+Bock,Dark Bock,58409,25
+Kvass,Borodinskiy Kvas,73723,26
+Kvass,Old Classical Kvass,65445,26
+Bière de Champagne / Bière Brut,Infinium,64089,27
+American Dark Wheat Ale,Gwiniz Du,17610,28
+Faro,Cantillon Faro,7761,29
+American Strong Ale,Brulle,17124,30
+Belgian Dark Ale,Orgemont Brune,48550,31
+Belgian Dark Ale,Orgemont Bière Des Moissons,48549,31
+Belgian Pale Ale,Orgemont Bière Rèmes Speciale Au Marc De Champagne,48548,31
+Belgian Pale Ale,Orgemont Blonde,46650,31
+Tripel,Orgemont Triple,48551,31
+Bière de Garde,Biere Brune De Tradition,38955,32
+Scottish Gruit / Ancient Herbed Ale,La Cervoise Des Ducs,50267,32
+Lambic - Unblended,Crianza,38709,33
+Roggenbier,Barbarossa,58938,34
+Belgian Pale Ale,La Binchoise La Belge Biere Speciale,20022,35
+Belgian Pale Ale,Eulogy's Busty Blonde,30550,35
+Belgian Pale Ale,La Binchoise Blonde Tradition,7693,35
+Belgian Strong Pale Ale,La Binchoise Spéciale Noël (Reserve Special - USA),8422,35
+Dubbel,La Cisterciènne Bruna,23118,35
+Tripel,La Binchoise Triple,61003,35
+Tripel,Belgoo Arbo,64924,35
+Maibock / Helles Bock,Battin Extra,38807,36
+Dortmunder / Export Lager,Urhell,54396,37
+Munich Helles Lager,Klosterhell,51426,37
+Munich Helles Lager,Ursprung,41262,37
+Maibock / Helles Bock,Maibock,50411,38
+Keller Bier / Zwickel Bier,Hartmann Felsenkeller,18509,39
+Munich Helles Lager,Wilkenburger Lager,7810,40
+Munich Helles Lager,Aecht Schlenkerla Helles Lagerbier,29145,41
+Dortmunder / Export Lager,Neder Faßbier,73752,42
+Keller Bier / Zwickel Bier,Neder Keller Bier,37930,42
+Munich Dunkel Lager,Erstes Forchheimer Braunbier,48061,42
+Schwarzbier,Schwarze Anna,47864,42
+German Pilsener,Lemke Pils,44354,43
+English Pale Ale,Brew Eyed Blond,71686,44
+Altbier,Herr Kevin's Alt Bier,39007,45
+American Amber / Red Lager,Amarillo Lager,43516,45
+American Black Ale,Black IPA,66855,45
+American Double / Imperial IPA,Hopcicle Double IPA,55445,45
+American Double / Imperial Stout,Ackerman's Imperial Double Stout (Winterfest Replicale 2011),66430,45
+American Double / Imperial Stout,Ackerman's Imperial Double Stout (Indiana Replicale 2011),66889,45
+American Double / Imperial Stout,2001 - A Stout Odyssey,55096,45
+American Porter,Monon Porter,39008,45
+American Porter,Jack Daniels Barrel Aged Porter,66857,45
+American Porter,Porter,9545,45
+American Stout,Broad Ripple Stout,15476,45
+California Common / Steam Beer,California Common,66856,45
+English Barleywine,Broad Ripple Ankle Biter 2003,15477,45
+English Barleywine,"Ankle Biter Ale ""06",35229,45
+English Barleywine,Ankle Biter Ale '07,35228,45
+English Barleywine,Broad Ripple Ankle Biter 2004,15478,45
+English Bitter,T.J.'s Best Bitter,16491,45
+English Brown Ale,Nut Brown,55097,45
+English Brown Ale,Broad Ripple Diving Duck American Brown Ale,15475,45
+English Dark Mild Ale,Red Bird Mild,31838,45
+English Pale Ale,Lawn Mower Pale Ale,61478,45
+English Pale Ale,15th Anniversary,27918,45
+English Strong Ale,Limping Mallard,63460,45
+English Strong Ale,Bigger Boy's Beer,63020,45
+Euro Dark Lager,Black Heart Lager,43944,45
+Extra Special / Strong Bitter (ESB),E.S.B.,6824,45
+Fruit / Vegetable Beer,Apple Chucker,64379,45
+German Pilsener,Pilsner,31935,45
+Hefeweizen,Hefe Weizen,73291,45
+Irish Dry Stout,Finneen's Auld Sod Stout,43364,45
+Kölsch,Kölsch,63470,45
+Milk / Sweet Stout,Sparky's Chocolate Milk Stout,74998,45
+Märzen / Oktoberfest,Oktoberfest,13289,45
+Märzen / Oktoberfest,Marzen,65568,45
+Pumpkin Ale,Pumpkin Ale,33272,45
+Saison / Farmhouse Ale,Winter Wheat,65089,45
+Saison / Farmhouse Ale,Farmhouse Ale,32306,45
+Schwarzbier,Replic Ale (2010),63467,45
+Scotch Ale / Wee Heavy,Wee Alec Heavy,8284,45
+Scottish Ale,Replic Ale,43945,45
+Witbier,Wheat Beer,10649,45
+Faro,Mort Subite Faro,16859,46
+Faro,Eylenbosch Faro Extra,50538,46
+Gueuze,Mort Subite Gueuze,1796,46
+Gueuze,Mort Subite Gueuze Fond,6097,46
+Lambic - Fruit,Ter Dolen Kriek,23330,47
+American Double / Imperial IPA,Viven Imperial IPA,59514,48
+American Porter,Viven Porter,63220,48
+Belgian Pale Ale,Viven Blond,62101,48
+Flanders Oud Bruin,Kapel Van Viven Bruin,62689,48
+Roggenbier,Orkiszowe,68490,49
+Baltic Porter,Okocim Porter,1504,50
+Low Alcohol Beer,Juleøl,22968,51
+Low Alcohol Beer,Mørkt Hvidtøl,22966,51
+American Pale Wheat Ale,Chasing Tail Ale,4637,52
+Maibock / Helles Bock,Double Maibock,18527,52
+Maibock / Helles Bock,Mai Bock,17862,52
+Munich Dunkel Lager,Munich Dunkel,15320,52
+American Barleywine,Ol' Lickspigot Barleywine,51815,53
+American Barleywine,Calapooia Barleywine,36039,53
+American Blonde Ale,Somethin' Lite,36035,53
+American Pale Lager,Pacific Pilsner,51814,53
+American Pale Wheat Ale,White Water Wheat,51793,53
+Chile Beer,Chili Beer,41788,53
+Extra Special / Strong Bitter (ESB),BourbonDog ESB,40448,53
+Extra Special / Strong Bitter (ESB),Riverdog ESB,35881,53
+Rye Beer,Fresh Hop Rye,40248,53
+Rye Beer,Hop Rye Pale,72329,53
+Rye Beer,Rising River Rye,64538,53
+Winter Warmer,Kringle Krack,40538,53
+American Adjunct Lager,Lawnmower Lager,20817,54
+American Amber / Red Ale,Dry Hop Red,10786,54
+American Amber / Red Ale,Ashland Amber,10785,54
+American Amber / Red Ale,Dry Hop Orange,23290,54
+American Blonde Ale,Caldera Rose Petal (Kettle Series),61427,54
+American Double / Imperial IPA,Cauldron DIPA,64883,54
+American Double / Imperial Stout,Imperial Stout,42964,54
+American IPA,Caldera IPA,10784,54
+American Pale Ale (APA),Caldera Pale Ale,25414,54
+American Pale Lager,Caldera OBF 15,12386,54
+American Porter,Pilot Rock Porter,10788,54
+American Porter,Coconut Porter,76963,54
+American Porter,Mogli,60990,54
+American Stout,Cauldron Espresso Stout,21241,54
+American Strong Ale,Southside Strong,10794,54
+American Strong Ale,Cauldron Brew,10793,54
+Belgian Strong Dark Ale,Vas Deferens Ale,58920,54
+Fruit / Vegetable Beer,Hibiscus Ginger Beer,60951,54
+Fruit / Vegetable Beer,Exotic Erotic Passion Fruit Ale,37917,54
+German Pilsener,Caldera Pilsener Bier,3274,54
+Herbed / Spiced Beer,Caldera Ginger Beer,52159,54
+Märzen / Oktoberfest,Caldera Märzen,54330,54
+Oatmeal Stout,Caldera Oatmeal Stout,10789,54
+Rauchbier,Rauch Ür Bock,58046,54
+Russian Imperial Stout,Old Growth Imperial Stout,20818,54
+American Wild Ale,Pisser Mauvais,33505,55
+American Wild Ale,Benevolence,10001,55
+Baltic Porter,Bourbon Barrel Aged Porter,8575,55
+Baltic Porter,The Colonel's Porter (Cask Primed With English Treacle),25466,55
+Baltic Porter,The Colonel's Porter,25386,55
+Berliner Weissbier,Berliner Kendall,44279,55
+Bière de Garde,Biere De Garde,509,55
+Dunkelweizen,Dunkles Weizen,503,55
+English Pale Mild Ale,Aestas Ale,32134,55
+English Pale Mild Ale,Pale Mild,3537,55
+Flanders Oud Bruin,Resolution #9,67360,55
+Flanders Red Ale,Up On Cripple Kriek,46089,55
+Lambic - Fruit,Kriek,31760,55
+Lambic - Fruit,Kriek Du Cambridge 2009,49731,55
+Lambic - Fruit,Nom De Plum,72394,55
+Lambic - Unblended,Honey Badger,72009,55
+Milk / Sweet Stout,CaCow! Chocolate Milk Stout,47570,55
+Old Ale,Bad Knees Barrel Aged Old Ale,57959,55
+Scottish Gruit / Ancient Herbed Ale,Collaborative Groove #1,69968,55
+Scottish Gruit / Ancient Herbed Ale,"""The Wind Cried Mari..."" Scottish Heather Ale",5756,55
+Vienna Lager,Golden Slumbers,48527,55
+American Black Ale,Blackwater Uber Pale Ale,37952,56
+American Pale Wheat Ale,King Karma Ale,14591,56
+American Wild Ale,Momotaro,73052,56
+Cream Ale,Farmer Ted's Cream Ale,25101,56
+English Brown Ale,Brown Bear Ale,14413,56
+English Brown Ale,Bears 'n Roses,60696,56
+Flanders Oud Bruin,Oakey Dokey,63654,56
+Saison / Farmhouse Ale,Le Sexxxy Saison,58776,56
+Saison / Farmhouse Ale,Farmer Ted's Farmhouse Ale,40140,56
+Witbier,White Zombie Ale,55375,56
+American Stout,City Stout,27689,57
+Fruit / Vegetable Beer,City Razz,30090,57
+Light Lager,City Light,30084,57
+Pumpkin Ale,City Pumpkin,30089,57
+Altbier,Red Alt Ale,23328,58
+English India Pale Ale (IPA),Amber IPA,23326,58
+Kölsch,Gosch,23327,58
+California Common / Steam Beer,Newport Storm Experimental Steam Beer,22416,59
+American Amber / Red Lager,Tijuana Morena,22591,60
+English Bitter,Welsh Pride,45543,61
+English Bitter,Welsh Honey Bitter,54216,61
+English Bitter,Celebration Ale,45855,61
+English Bitter,Honey Fayre,45628,61
+English Porter,Telford Porter,39314,61
+Chile Beer,Sigda's Green Chili,7642,62
+English India Pale Ale (IPA),Back Yard India Pale Ale,1599,63
+English Stout,Strike Out Stout,178,63
+American Blonde Ale,White Squirrel,58941,64
+Belgian Dark Ale,PBJ,69305,64
+Belgian Pale Ale,Solshine,56979,64
+Doppelbock,Germinator Doppelbock,62717,64
+Dubbel,Dubbelicious,56981,64
+Dunkelweizen,Brewer's Reserve Series: Dunkelweiss,63995,64
+English Strong Ale,Meet Your Maker,56982,64
+Flanders Red Ale,Belgian Red With Brettanomyces Yeast,62718,64
+Keller Bier / Zwickel Bier,Swannanoa Sunset,56980,64
+Keller Bier / Zwickel Bier,Toubab Brewe,57668,64
+Roggenbier,Roggenbier,65082,64
+Roggenbier,Falconer's Rye,69410,64
+Bock,Festival Bock,35386,65
+Bock,Spring Bock,67820,65
+Bock,Voodoo Bock,75148,65
+Dunkelweizen,Dunkel Weizen,17362,65
+German Pilsener,Pilsner,9824,65
+Hefeweizen,Weiss Beer,3644,65
+Munich Dunkel Lager,Black Forest,9825,65
+Roggenbier,Roggen,23234,65
+Vienna Lager,Red Stallion,5547,65
+Irish Red Ale,Red Lady Ale,59984,66
+Oatmeal Stout,Rodeo Stout,59986,66
+Chile Beer,WICCA (Wickedly Charming Chili Ale),76522,67
+Dunkelweizen,Dunkles Weissbier,10174,68
+California Common / Steam Beer,Centennial Steam Beer,5660,69
+English Dark Mild Ale,British Mild Ale,33116,69
+Kristalweizen,Krystal Weis,5652,69
+Kristalweizen,Summertime Kristalweizen,71003,69
+American Pale Wheat Ale,Wheat Ale,26418,70
+American Stout,Dry Stout,26133,70
+Herbed / Spiced Beer,Holiday Ale,27666,70
+Milk / Sweet Stout,Sweet Stout,27799,70
+Pumpkin Ale,Pumpkin Ale,26817,70
+Rye Beer,Red Rye Ale,26419,70
+English Pale Mild Ale,Jacob Mac Mild,43604,71
+Munich Helles Lager,Drei Kronen 1308,45722,72
+Kvass,Session Ale #24: LOAF (Dark Kvass W/60 Loaves),50221,73
+Kvass,Session Ale #40: Wood St. Kvass,60850,73
+American Double / Imperial Pilsner,Imperial Pilsener,43920,74
+American Pale Lager,1871 Lager,66229,74
+English Dark Mild Ale,English Dark Mild,57686,74
+Kölsch,Kolsch,26853,74
+Oatmeal Stout,Oatmeal Stout,26856,74
+Oatmeal Stout,Double Barrel Oatmeal Stout,43922,74
+Rye Beer,Rye IPA,57687,74
+English Dark Mild Ale,Montgomery Mild,20243,75
+English Dark Mild Ale,Malt Shovel Mild,6330,75
+English Pale Mild Ale,Goldie Hops,30776,75
+English Stout,Triple MMM Stout,23913,75
+Herbed / Spiced Beer,Old Spice,6417,75
+American Stout,Steamboat Stout,71502,76
+Eisbock,Iced Oaked Oktoberfish,39328,77
+American Amber / Red Lager,Honey Brown Lager,5843,78
+Black & Tan,Black & Tan,1222,78
+American Double / Imperial Stout,Founders Breakfast Stout,11757,79
+Braggot,Founders Braggot,36776,79
+Braggot,Founders Summer Braggot,17536,79
+Chile Beer,Founders Barrel Aged Spite Poblano,75699,79
+Dunkelweizen,Founders Black Sunshine,30248,79
+Fruit / Vegetable Beer,Founders Cerise,48911,79
+Quadrupel (Quad),Founders Bad Habit Belgian Quad,16073,79
+Rye Beer,Founders Red's Rye PA,16074,79
+Rye Beer,Founders Crystal Rye Persuasion,44914,79
+Wheatwine,Founders Wheatwine,53795,79
+Wheatwine,Founders Death,57640,79
+Wheatwine,Founders Nemesis 2009,55900,79
+English Stout,Dark De Triomphe,20017,80
+Extra Special / Strong Bitter (ESB),Parislytic,20016,80
+Witbier,Froegaarden,20008,80
+American Blonde Ale,Lonely Blonde,59015,81
+American Double / Imperial Stout,The Worthy Adversary,57172,81
+English India Pale Ale (IPA),Sweet Child Of Vine,56259,81
+English Dark Mild Ale,Dark Mild,14301,82
+English Dark Mild Ale,Bateman's PortuGoal,18604,82
+English Pale Mild Ale,Batemans Summer Swallow,12754,82
+Japanese Rice Lager,Sushi Roku Red Sun,21964,83
+American Barleywine,Bourbon Barrel Barleywine,58921,84
+American Barleywine,Risky Biscuit Barleywine,11324,84
+American Black Ale,Black Eye P.A.,60644,84
+American Brown Ale,Franktown Brown,29032,84
+American Double / Imperial Stout,Bourbon Imperial Stout,56725,84
+Chile Beer,Cerveza ChileBeso,25520,84
+Cream Ale,Katies Cream Ale,24443,84
+English Porter,Jackpot Porter,29030,84
+Extra Special / Strong Bitter (ESB),Black Rock ESB,24444,84
+Oatmeal Stout,Outlaw Oatmeal Stout,25721,84
+Rye Beer,Blister In The Sun Rye,61638,84
+Saison / Farmhouse Ale,Silver State Saison,43904,84
+American Blonde Ale,Blonde Ambition,61800,85
+American Double / Imperial IPA,Hoppocratic Oath,65282,85
+American Stout,Snaggletooth Stout,61801,85
+Pumpkin Ale,Splashing Pumpkin,62782,85
+Rye Beer,Sleigh Ryed,64348,85
+Saison / Farmhouse Ale,Conscious Sedaison,70562,85
+English Dark Mild Ale,Dark Mild,49959,86
+Foreign / Export Stout,Stout,49718,86
+Keller Bier / Zwickel Bier,Keller,40980,86
+American Brown Ale,Brown Ale,65211,87
+Hefeweizen,Hefeweizen,65208,87
+Irish Dry Stout,Irish Stout,65209,87
+Kölsch,Firkin - Twig & Berries Kolsch,40629,88
+Dortmunder / Export Lager,Grumpy's Original Draught,39550,89
+Japanese Rice Lager,Zhujiang Beer,31132,90
+Kristalweizen,Hacker-Pschorr Kristall Weisse,873,91
+Foreign / Export Stout,Hakim Stout,11493,92
+American Amber / Red Lager,Harboe Red Beer,32368,93
+Euro Strong Lager,Harboe Bjørnebryg Extra Stark (Bear Beer Extra Strong),22604,93
+Euro Strong Lager,"Netto ""24"" Fødselsdags-Bryg",23315,93
+Euro Strong Lager,Harboe Årgangssbryg,22609,93
+Euro Strong Lager,Harboe Bear Beer Premium Strong Beer,57800,93
+Low Alcohol Beer,Harboe Den Glada Danskens Lättöl,22808,93
+Munich Dunkel Lager,Harboe Dunkel,37175,93
+Schwarzbier,Skælskør Original Black,42953,93
+Vienna Lager,De 5 Gaarde Falle Høstbryg,49485,93
+American Barleywine,Old Clam Digger,52175,94
+American Blonde Ale,Mt. Takhoma Blonde Ale,31973,94
+American Brown Ale,T-Town Maple Brown,45885,94
+American Dark Wheat Ale,Harmon's Killer Brew,45347,94
+American Double / Imperial Stout,Bigwood Oak Aged Stout,64487,94
+American Strong Ale,Triple Play,70247,94
+California Common / Steam Beer,Mighty Tacoma Ale,62643,94
+California Common / Steam Beer,"Mighty Tacoma Ale, V2",64082,94
+Cream Ale,Cowlitz Cream Ale,52171,94
+Dunkelweizen,Delightful Dark Wheat,56004,94
+Extra Special / Strong Bitter (ESB),Brown's Point ESB,4371,94
+Irish Dry Stout,Diamond Peak Dry Stout,56001,94
+Kölsch,J.T. Memorial Kolsch,37559,94
+Maibock / Helles Bock,Mai Bock,58132,94
+Milk / Sweet Stout,Woodrow's Imperial Milk Stout,61745,94
+Rye Beer,White River Rye,4421,94
+Rye Beer,Rye PA,67723,94
+Rye Beer,Red Ryeder Ale,56000,94
+Rye Beer,Jumpin' Jimi Jack Rye,45348,94
+Saison / Farmhouse Ale,Summer Solstice,69949,94
+Scottish Gruit / Ancient Herbed Ale,Bring Me A Shrubbery Ale,45344,94
+Scottish Gruit / Ancient Herbed Ale,Braveheart Beir,32264,94
+Vienna Lager,Vienna Lager,53591,94
+Wheatwine,Wet Dog Wheat Wine,47781,94
+Low Alcohol Beer,Buckler,5636,95
+Weizenbock,Heineken Tarwebok,14497,95
+American Pale Wheat Ale,Washougal Wheat,33653,96
+American Stout,Terminator Stout,60957,96
+American Stout,Triple Chocolate Stout,33654,96
+American Amber / Red Lager,1906 Reserva Especial Can,32811,97
+Vienna Lager,Estrella De Navidad 2004,26353,97
+Roggenbier,Roggen Bitch,74365,98
+Belgian IPA,Hop Master's Abbey Belgian-Style Double IPA,51917,99
+Belgian Strong Pale Ale,Gulden Fraug Belgian Style Ale,33927,99
+Black & Tan,Bodacious Black & Tan,33662,99
+English Barleywine,Barrel Aged Naked Evil,72827,99
+Fruit / Vegetable Beer,Turbo Shandy,59548,99
+Fruit / Vegetable Beer,Smashin' Berry Dark,40146,99
+Fruit / Vegetable Beer,Smashing Berry Ale,38982,99
+Hefeweizen,Wild Frog Wheat Ale,36862,99
+Pumpkin Ale,Frog's Hollow Double Pumpkin Ale,52211,99
+Russian Imperial Stout,Barrel Aged B.O.R.I.S. Oatmeal Imperial Stout,47695,99
+Winter Warmer,Barrel Aged Frosted Frog Christmas Ale,64096,99
+Winter Warmer,Frosted Frog Christmas Ale,54134,99
+English Bitter,Hebridean Gold Porridge Oat Ale,11709,100
+English Pale Ale,Skyelight,71157,100
+English Pale Ale,Red Cuillin,11456,100
+Scotch Ale / Wee Heavy,Wee Beast (Cuillin Beast),17010,100
+Scottish Ale,Devanha Scottish XXX Ale,26909,100
+Scottish Ale,Tigh Dearg Ale,36661,100
+Scottish Ale,Blaven,7519,100
+Scottish Ale,Black Cuillin,1557,100
+Smoked Beer,Tarasgeir,73020,100
+California Common / Steam Beer,Jamesport Amber Steam,25674,101
+English Dark Mild Ale,Dark Mild,15130,102
+Extra Special / Strong Bitter (ESB),Red Breast,15131,102
+Dortmunder / Export Lager,Highlands Dortmunder Lager,60004,103
+German Pilsener,Kirner Pils Premium,49803,104
+Maibock / Helles Bock,Schinderhannes Bock,70395,104
+Munich Helles Lager,Weltenburger Kloster Urtyp Hell,6769,105
+American Wild Ale,KB Grand Cru 2008,73234,106
+American Wild Ale,KB Grand Cru 2011,73239,106
+American Wild Ale,KB Grand Cru 2010 - Oak Aged Cassis,73235,106
+American Wild Ale,KB Grand Cru 2009,73237,106
+American Wild Ale,KB Grand Cru 2010 - Kriek,73240,106
+Lambic - Unblended,KB Grand Cru 2010 - Unblended,73241,106
+English Brown Ale,Dog In The Fog,39028,107
+Keller Bier / Zwickel Bier,WalderBräu Naturtrüb Hell,34650,108
+Dortmunder / Export Lager,Kössel Festbier,40383,109
+German Pilsener,Kollers Naturtrüb Hell,40394,110
+Munich Dunkel Lager,Kollers Naturtrüb Dunkel,40395,110
+Bière de Garde,Goudale,7451,111
+Bière de Garde,Saint Landelin La Divine,38903,111
+English Dark Mild Ale,Sweet Dark,16871,112
+Vienna Lager,LIDO Speci&#257;lais,44459,113
+American Amber / Red Lager,Livu Premium,42437,114
+American Pale Lager,Funky Pelican Pilsner,64541,115
+American Pale Wheat Ale,Whole Lotta Love Belgian,64542,115
+English Stout,Starry Night Stout,64540,115
+Hefeweizen,High Country Hefeweizen,50343,116
+Chile Beer,Chilli-Out,70135,117
+Herbed / Spiced Beer,Matso's Monsoonal Blonde,48047,117
+Herbed / Spiced Beer,Ginger Beer,72064,117
+Munich Dunkel Lager,Matso's Smokey Bishop,45116,117
+Bière de Garde,Bier De Mars,49607,118
+California Common / Steam Beer,California Common,46563,118
+Herbed / Spiced Beer,Belgian Spice Anniversary Ale,56523,118
+English Pale Mild Ale,Maple Moon Ale,42534,119
+American Adjunct Lager,Meta Export Lager,35064,120
+Hefeweizen,Weizen,23668,121
+Smoked Beer,Porter Fume,44687,121
+Eisbock,Eisbock (Congelator),35821,122
+Kristalweizen,Cristal Weizen,35870,122
+American Brown Ale,Gene's American Brown Ale,44081,123
+American Double / Imperial IPA,Oatboy Imperial IPA,29142,123
+American Double / Imperial Stout,Oak-Aged Black River Imperial Stout,47880,123
+American Porter,The Captain's Porter,2780,123
+American Stout,Galleria Espresso Stout,24057,123
+American Stout,"The Rod ""winter"" Stout",7819,123
+Belgian IPA,Georgia Belgique,53367,123
+Belgian Pale Ale,Inspiration Ale,2724,123
+Belgian Pale Ale,Goin' Monk,65099,123
+Belgian Strong Pale Ale,Six Degrees Belgian Golden Ale,71533,123
+Belgian Strong Pale Ale,Six Degrees Belgian Golden Ale Cask With Cardamom And Lemongrass,72005,123
+Czech Pilsener,Moon Light,20013,123
+English Bitter,Apparition Ale Cask With Sovereign Hops,71513,123
+English Bitter,Apparition Ale Cask With Fuggles Hops,72200,123
+English Bitter,Apparition Ale,62442,123
+English Brown Ale,Bay Street Brown Ale,8514,123
+English Pale Ale,Moon Dance Pale Ale,26562,123
+Flanders Oud Bruin,Special Reserve Oud Bruin,74027,123
+Fruit / Vegetable Beer,Peachy Sour Brown Ale,43602,123
+Fruit / Vegetable Beer,The Tater Ale,34569,123
+Hefeweizen,Wheezy Heifer,27229,123
+Hefeweizen,Hefe-Weizen,2776,123
+Irish Dry Stout,The Bomb-Dry Stout,11162,123
+Irish Dry Stout,Skunk-Ape Stout,55193,123
+Kölsch,Claire De Lune,2726,123
+Maibock / Helles Bock,Honey Bock,39519,123
+Märzen / Oktoberfest,Savannah Fest Beer,8717,123
+Rye Beer,Mai-Rye-Bock,24016,123
+Scotch Ale / Wee Heavy,The Highland Stagger,20689,123
+Tripel,Dixie Crystal Beer,38226,123
+Witbier,Wild Wacky Wit,19558,123
+Witbier,Houblon Wit,62441,123
+Munich Dunkel Lager,Dunkles Bier,52155,124
+Munich Helles Lager,Helles Bier,52156,124
+Vienna Lager,Dark,11126,124
+Sahti,Lips Of Faith - Sahti,62022,125
+Roggenbier,Roggen Roll,68902,126
+American Blonde Ale,Bulldog Ale,53366,127
+American Pale Wheat Ale,Summer Wheat Ale,31453,127
+American Wild Ale,Whiskey Sour Dunkel,49815,127
+Cream Ale,Gonzaga Ale,47171,127
+Cream Ale,Créme Ale,38537,127
+Cream Ale,Copper Creme Ale,11226,127
+Cream Ale,Independence Ale,72004,127
+Munich Dunkel Lager,Chocolate Dunkel,17162,127
+American Black Ale,Deceiver,74672,128
+American Double / Imperial IPA,NoDa Rye Z'd,74683,128
+Winter Warmer,Santa Baby,76668,128
+Winter Warmer,Naughty List,76508,128
+Lambic - Fruit,Framboise,60415,129
+Dunkelweizen,Lemp Jurassic Dark,25827,130
+English Dark Mild Ale,Light,13349,130
+Milk / Sweet Stout,Chocolate By The Barrel Cream Stout,52556,130
+American Pale Wheat Ale,Washington Park Wheat,55339,131
+American Pale Wheat Ale,Winter's Street Strawberry Ale,30182,131
+Maibock / Helles Bock,Steambock,36732,131
+American Dark Wheat Ale,Ratsel Red Wheat Ale,67740,132
+Altbier,Alt-Ernative Amber,46249,133
+Altbier,Akron Dopple Alt,44875,133
+American Brown Ale,Buckeye Brown,46248,133
+American Strong Ale,Twice Bitten,46683,133
+Irish Red Ale,Cardinal Ale,46254,133
+Kölsch,Verich Gold,46255,133
+Pumpkin Ale,Ohio Pumpkin Ale,46252,133
+American Strong Ale,Old Orange Old Dummy,72427,134
+Kölsch,Old Orange Street Fair,72425,134
+English Brown Ale,Otro Mundo Nut Brown Ale,40767,135
+English Strong Ale,Otro Mundo Strong Red Ale,40765,135
+American Dark Wheat Ale,Cara-Mellow Weizen II,11414,136
+Roggenbier,Sinebrychoff Krouvi,29895,137
+American Barleywine,Code Blue,15894,138
+American Blonde Ale,Yellowjacket Ale,69087,138
+American Double / Imperial IPA,Holiday Imperial,55951,138
+American Double / Imperial Stout,Leviathan Imperial Stout,39606,138
+American Porter,Orca Porter,44082,138
+American Stout,Killer Whale Stout,8770,138
+American Strong Ale,Holiday XXII Imperial Blue,64800,138
+American Strong Ale,Megalodon,64803,138
+Belgian Strong Pale Ale,Holiday Trappist Style Ale,41584,138
+Doppelbock,Deviator Doppelbock,12835,138
+English Strong Ale,Old Oakland Ale,68672,138
+Irish Dry Stout,Luck O' The Irish,68668,138
+English Pale Mild Ale,Colón Rubia,10603,139
+American Pale Wheat Ale,Sawgrass Wheat,64851,140
+Flanders Red Ale,Nüa Barric,55030,141
+American Brown Ale,Imperial Brown Ale,25103,142
+American Double / Imperial IPA,Pike Double IPA,48525,142
+Dubbel,Pike Tandem,53495,142
+Lambic - Fruit,Pike Tripel Kriek,53449,142
+Munich Dunkel Lager,Raudonyu Dobilu Alus,70732,143
+Keller Bier / Zwickel Bier,MB Pils,57853,144
+Doppelbock,Eliksir,62056,145
+Vienna Lager,Netopir,31427,145
+English Pale Mild Ale,Red Tail Pale Ale,69255,146
+Kölsch,Richmodis Koelsch,22169,147
+Euro Strong Lager,Lobster Lovers Beer,40176,148
+Euro Strong Lager,"Zhiguly Grande 9,5",41613,148
+Chile Beer,Mexicali Smoke,29816,149
+Milk / Sweet Stout,Roffey's Lake Effect Stout,1326,150
+Kvass,Old Kiev Kvas,70786,151
+American Amber / Red Lager,Saddle Rock Red Lager,36809,152
+American Brown Ale,Nut Brown Ale,32734,153
+Oatmeal Stout,Oatmeal Stout,32712,153
+English Porter,Toffee Porter,75708,154
+American Malt Liquor,St. Ides High Gravity Malt Liquor,798,155
+American Amber / Red Lager,Happy Jack Ale,30285,156
+American Pale Lager,Emperor Norton Lager,20111,156
+American Pale Wheat Ale,Andromeda Wheat,24922,156
+Bock,Grace Darling Bock,40810,156
+English Dark Mild Ale,Hallidie S. Ale,24336,156
+English India Pale Ale (IPA),ShanghaIPA,7766,156
+Weizenbock,St. Stephen's Bock,34801,156
+Weizenbock,Dopple Weizen,20112,156
+German Pilsener,Zahre Chiara Pilsen,28469,157
+Herbed / Spiced Beer,Zahre Canapa,30199,157
+Vienna Lager,Zahre Rossa Vienna,66024,157
+American Brown Ale,Head Rush,43563,158
+American Dark Wheat Ale,Oktoberfest,53588,159
+Keller Bier / Zwickel Bier,Schnucken Pils,24890,160
+Eisbock,Schorschbock Ice 13,73357,161
+Eisbock,Schorschbräu Schorschbock 31%,51466,161
+Eisbock,Schorschbräu Schorschbock 57%,73368,161
+Eisbock,Schorschbräu Schorschbock 40%,55712,161
+Eisbock,Schorschbräu Schorschbock 43%,57856,161
+Weizenbock,Schorsch Weizen 16%,71004,161
+Weizenbock,Schorschbräu Donner Weizen,20169,161
+American Double / Imperial Pilsner,Rose's Imperial Pilsner,52352,162
+Sahti,Oak Barrel Millennium Ale,24779,163
+Sahti,Shenandoah Oak Barrel Aged Millennium Ale,42541,163
+California Common / Steam Beer,Nuthin' In Common - Beer Camp #8,51884,164
+Weizenbock,Weizenbock - Beer Camp #37,46964,164
+Berliner Weissbier,Berliner Weisse,50849,165
+California Common / Steam Beer,Camino Real Common,75030,166
+Roggenbier,New Bavaria,68586,167
+Kvass,Olimpia Kvas,70983,168
+Maibock / Helles Bock,Arnstädter UrBock,64816,169
+Lambic - Unblended,Hakusekikan Shizen Bakushu,50364,170
+American Double / Imperial Pilsner,Brewers Reserve Imperial Pilsner,41688,171
+Dortmunder / Export Lager,EMU Export,1539,172
+Roggenbier,Crazy Jackass Ale,18077,173
+Roggenbier,Crazy Jackass Ale (Roggenbier),38728,173
+American Amber / Red Lager,Taps Charleston Lager,30368,174
+Dortmunder / Export Lager,Taps Premium Lager,30371,174
+American Double / Imperial Pilsner,Tenaya Creek Double Pilsner,30006,175
+American Malt Liquor,Ten,25196,176
+Roggenbier,Roggenschnizzle,66413,177
+American Double / Imperial Pilsner,Humulus Lager With Simcoe Hops,57276,178
+American Double / Imperial Pilsner,Provisions Series: Run B.M.C.,70981,178
+Berliner Weissbier,Hottenroth Berliner Weisse,43889,178
+Berliner Weissbier,Hottenroth Berliner Weisse (Blueberries),50922,178
+Berliner Weissbier,Hottenroth Berliner Weisse (Raspberries),50923,178
+Bière de Garde,Birra Basta,73890,178
+Braggot,Mead-Lange,49570,178
+Chile Beer,Nano Series: El Fantasma Negro,68722,178
+Chile Beer,Black Orchard Mole Poblano (Holy Mole),47498,178
+Faro,Pharaoh,70363,178
+Flanders Oud Bruin,Collaboration Series: Marrón Acidifié,65862,178
+Flanders Red Ale,Gypsy Tart,49830,178
+Flanders Red Ale,Oude Tart,54888,178
+Gose,Provisions Series: Salt Of The Earth,66677,178
+Gueuze,Batch 50: Grand Funk Ale Road,75559,178
+Lambic - Fruit,Kriek,70470,178
+California Common / Steam Beer,The Cowboy California Common,17526,179
+Irish Dry Stout,Zona Brewing Irish Stout,24298,179
+Kölsch,The Cowboy Kolsch,19201,179
+Munich Helles Lager,Zona Brewing Helles,24296,179
+Weizenbock,Zona Brewing Weizenbock,23694,179
+American Double / Imperial Stout,Conan The Destroyer Coffee Stout,72587,180
+American Pale Lager,Hanover Lager,47994,180
+American Pale Wheat Ale,Spring Fest,50978,180
+Baltic Porter,Mick Jack Porter,16418,180
+Bock,Birthday Bock,17753,180
+Cream Ale,Queechee Cream Ale,22054,180
+Doppelbock,Al's Bock,57929,180
+Vienna Lager,Greg Noonan Memorial Vienna,59408,180
+American Pale Wheat Ale,Golden Wheat Light,3812,181
+English Pale Mild Ale,Spring Mild,42010,181
+English Pale Mild Ale,Session Ale,44651,181
+English Stout,Chocolate Stout,46620,181
+Herbed / Spiced Beer,Tim's Ginger Beer,17719,181
+American Pale Lager,Amalgamated Zoigl,54060,182
+Dunkelweizen,Amalgamated Dunkel,54846,182
+English India Pale Ale (IPA),Amalgamated IPA,71830,182
+Maibock / Helles Bock,Amalgamated Helles,50575,182
+Märzen / Oktoberfest,Amalgamated Märzen,50632,182
+Old Ale,Huon Dark Ale,33286,183
+American Amber / Red Lager,Meddie's American Rye Lager,37479,184
+Dunkelweizen,Vermont Dunkelweizen,15214,184
+Dunkelweizen,Brewmasters Cup,47707,184
+Dunkelweizen,Zamboni Black Ice,27809,184
+Flanders Red Ale,Tulach Leis,57675,184
+Herbed / Spiced Beer,Holidaze,15916,184
+Herbed / Spiced Beer,Blue Nile # 2,44891,184
+Herbed / Spiced Beer,Blue Nile Lotus Gruit,41383,184
+Herbed / Spiced Beer,Absinthe,46208,184
+Keller Bier / Zwickel Bier,Zwickelbier,65490,184
+Lambic - Unblended,Spuyten Duyvil,37103,184
+Maibock / Helles Bock,Billy Buck Bock,16077,184
+Milk / Sweet Stout,Milk Stout,69706,184
+Munich Helles Lager,St Paul Street Munich Helles Lager,17205,184
+American Blonde Ale,Bees Knees Honey Ale,75989,185
+American Brown Ale,Nut Brown Ale,23019,185
+American Double / Imperial IPA,Hopturnal Emissions,74654,185
+American Pale Wheat Ale,Golden Hawk Wheat,16893,185
+Dunkelweizen,Dunkel Weizen,5616,185
+English Brown Ale,Brown Nose Ale,22213,185
+English Pale Ale,Unas Mas! (Simcoe Hops),74651,185
+Extra Special / Strong Bitter (ESB),Flying Aces Ale,16892,185
+Herbed / Spiced Beer,Holidays R Over Spiced Ale,56687,185
+Maibock / Helles Bock,Helles Honey Bock,19898,185
+Oatmeal Stout,Quaker Oatmeal Stout,28271,185
+Schwarzbier,Black Night Black Lager,32084,185
+American Dark Wheat Ale,Trafalgar Dark Wheat,42904,186
+American Pale Lager,Elora Grand Lager,27596,186
+American Strong Ale,Trafalgar Black Bullet,38866,186
+American Strong Ale,Trafalgar Korruptor,32222,186
+Belgian Dark Ale,Trafalgar Abbey Belgian Spice Ale,2784,186
+Belgian Dark Ale,Trafalgar Celebration Ale,8274,186
+Bock,Trafalgar Bock,29727,186
+Bock,Trafalgar Maple Bock,36380,186
+Cream Ale,Trafalgar Cedar Cream Ale,48167,186
+Cream Ale,Creme Ale,14742,186
+English Pale Mild Ale,Trafalgar Red Hill Mild,31630,186
+English Porter,Trafalgar Peppermint Porter,38865,186
+Irish Red Ale,Elora Irish Ale,27597,186
+Irish Red Ale,Paddy's Irish Red,8590,186
+Kristalweizen,White Oak Weissbier,32661,186
+Rye Beer,Trafalgar Oak-Aged Rye,41315,186
+Smoked Beer,Trafalgar Smoked Oatmeal Stout,38552,186
+English Strong Ale,Red Moon,48213,187
+Foreign / Export Stout,Black Horse Black Beer,48215,187
+German Pilsener,Sausa Pils,47969,187
+Hefeweizen,Sausa Weizen,47986,187
+American Amber / Red Lager,Sled Dog Red,54951,188
+English Stout,Wapping Stout,52287,189
+American Brown Ale,Bobsled Brown,48530,190
+Chile Beer,Jalapeño Cream Ale,62799,190
+Doppelbock,The Devastator Double Bock,48148,190
+Munich Helles Lager,Weib's Helles,40400,191
+Bière de Garde,Bierre De Garde,69828,192
+Altbier,'Sconnie Rustic Trail Amber,20274,193
+Kölsch,'Sconnie Tall Blonde Ale,20273,193
+American Amber / Red Lager,Hap And Harry's Lynchburg Lager,70009,194
+American Brown Ale,Dos Perros,20893,194
+Dunkelweizen,Dunkel Weizen,20574,194
+English Dark Mild Ale,Quinn's Marathon Mild,27362,194
+Hefeweizen,Hefeweizen,20575,194
+Irish Dry Stout,Onward Irish Stout,17094,194
+Saison / Farmhouse Ale,Spring Puppy,67768,194
+American Black Ale,Pot Kettle Black,66818,195
+Belgian Pale Ale,Return To Magenta,62884,195
+Dubbel,Her Majesty 2010,74370,195
+Saison / Farmhouse Ale,Her Majesty 2011,72146,195
+Smoked Beer,Rex Attitude,69677,195
+American Dark Wheat Ale,Buffalo Butt,6873,196
+American Dark Wheat Ale,Wheat Beer,74150,197
+Keller Bier / Zwickel Bier,Löwenbräu Hausbräu,18576,198
+NA,NA,NA,199
+NA,NA,NA,199

@@ -1,0 +1,139 @@
+---
+title: "Snippet from Data Science assignment"
+author: "Emil Frej Brunbjerg (202105405)"
+date: "Last update: `r Sys.Date()`- "
+output: 
+  html_document:
+    theme: yeti
+    code_folding: hide
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(kableExtra)
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+```
+
+> Does all values in `beer_reviews$beer_id` exist in `beer_types$beer_id` and vice versa? Does all values in `beer_types$brewery_id` exist in `brewery$brewery_id` and vice versa? Make an appropriate join to combine all tibbles into one tibble (call this tibble `beer`), and explain why you choose the join operation(s) you did.
+
+Firstly I import beer_reviews.csv, beer_type.csv, and brewery.csv.
+
+```{r}
+beer_reviews <- read_csv("beer_reviews.csv")
+beer_types <- read_csv("beer_types.csv")
+brewery <-  read_csv("brewery.csv")
+```
+
+
+We left_join beer_types with reviews, afterwards with brewery, since beer_types contains all ids that seem to contain relevant information.
+```{r}
+beer <- left_join(beer_types,beer_reviews, by="beer_id") %>% 
+  left_join(brewery, by="brewery_id")
+```
+
+
+> Q2.2 Write a function that replaces `NA`'s in a numeric vector with the mean of all non-NA values in that vector. Then use the function in a for loop to replace all `NA` values in the columns `overall`, `aroma`, `appearence`, `palate`, `taste` and `alchohol` located in `beer` tibble you created in Q2.1.)
+
+I define the function accordingly.
+
+```{r}
+nareplacer <- function(a){
+  vector_mean = mean(na.omit(a))
+  for (i in 1:length(a)){
+    if (is.na(a[i]) == T){
+      a[i] <- vector_mean
+    }
+  }
+return(a)
+}
+
+```
+
+We use the function to change the NAs in the given columns.
+
+```{r}
+for(i in 4:10){
+  beer[, i] <- nareplacer(beer[[i]])
+}
+```
+
+We check if there are any NAs remaning in the columns.
+
+
+```{r}
+any(is.na(beer[,4:10]))
+```
+
+We conclude that the function has at the very least replaced all NAs. 
+
+>Q3.1 If you should recommend a brewery to a friend, which brewery would you recommend and which brewery would you not recommend (base your answer on the breweries in the `beer` tibble)? 
+
+This seems to be a simple question, however, there are a number of considerations to make. Immediately, one could try to calculate the mean overall score for all breweries and choose top and bottom scoring breweries.
+
+I group_by brewery and calculate a mean score for each. Afterwards I sort the scores in descending order.
+
+```{r}
+brewery_mean_scores <- group_by(beer, brewery_name) %>% 
+  summarise(
+    mean_score = mean(overall)
+  )
+brewery_mean_scores %>% arrange(desc(mean_score)) %>% head() %>% 
+  knitr::kable()
+
+```
+\
+\
+\
+There are 8 breweries scoring equally well. Since we are being asked to recommend a brewery to a friend, I would be rather be conservative and recommend something I'm confident my friend would enjoy rather than recommend something with a chance to be spectacular. 
+
+Therefore, to further narrow down the options we could consider the number of reviews for each of brewery. Due to the law of great numbers, a larger number of observations/reviews would equal a better estimate of the true population mean, if such a thing exists for the perception of how good a beer is. We count the number of reviews, and use this information to construct confidence intervals for the mean overall score. I arbitrarily set the significance level to 95% and assume that scores are normally distributed. I have filtered away breweries with $SD = 0$, since these were resulting in lower and upper bounds being equal to the sample mean, and seemed unlikely to happen for any brewery with more than a couple reviews. 
+
+
+```{r warning=FALSE}
+alpha = 0.05
+
+Review_scores <- group_by(beer, brewery_name)  %>% 
+  summarise(
+    n_obs = n(),
+    sample_sd = sd(overall),
+    mean_overall = mean(overall),
+    lower_95_sig = mean_overall - qt(1-(alpha/2), n_obs - 1) * sample_sd / sqrt(n_obs),
+    upper_95_sig =  mean_overall + qt(1-(alpha/2), n_obs - 1) * sample_sd / sqrt(n_obs)
+  )
+
+Review_scores <- filter(Review_scores, sample_sd > 0)
+slice_max(Review_scores,lower_95_sig)
+```
+
+I am also getting NAs for all single observation breweries. If we are going for a safe pick, it doesn't seem to matter to include these, since single observations don't contribute much information anyway. Therefore I slice the top lower bound estimate and pick the "East End Brewing Company" as my recommendation. I slice the lowest higher bound estimate for my anti-recommendation.
+
+```{r}
+slice_min(Review_scores,upper_95_sig)
+```
+
+And I find that the Guangzhou Zhujiang Brewery Co. Ltd. is the worst scoring brewery. 
+
+>Q3.2 If the beer-tasters did not give a rating on the `overall` rating, would the beer-taster average of the other ratings be a good substitute for the overall score? 
+
+I reconstitute the beer dataframe with all the NAs. 
+
+
+```{r}
+beer <- left_join(beer_types,beer_reviews, by="beer_id") %>% 
+  left_join(brewery, by="brewery_id") %>% 
+  na.omit() %>% 
+  rowwise() %>% 
+  mutate(
+    avg_impression = (aroma + appearance + palate + taste) / 4
+  )
+
+beer %>%  
+  ggplot(aes(x = avg_impression, y = overall)) +
+  geom_jitter() +
+  theme_minimal()
+```
+
+From this plot it seems that there is a linear relationship between the avg_impression (average of the other ratings) and overall. Therefore it seems to be a fair compromise when the overall score is missing. We could use this improved version of the review scores to make a better recommendation. 
+
